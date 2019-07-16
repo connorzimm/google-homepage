@@ -1,0 +1,1 @@
+This project is cirruculum from the Odin Project. The goal of this project is to deconstruct an existing web page and rebuild it from scratch using HTML and CSS. Following the prompts from the Odin Project, I will be using the Google homepage as a reference to rebuild it.
